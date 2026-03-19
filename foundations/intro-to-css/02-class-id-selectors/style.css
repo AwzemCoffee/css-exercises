@@ -12,4 +12,11 @@
 }
 #bigblue {
     font-size: 36px;
+    color: rgb(51, 51, 242);
 }
+#leafy {
+    font-size: 26px;
+    font-weight: bold;
+    background-color: rgb(119, 218, 151);
+}
+
