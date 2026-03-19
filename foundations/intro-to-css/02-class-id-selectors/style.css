@@ -1,9 +1,15 @@
 /* Add CSS Styling */
 .terminal {
     font-size: 26;
-    background-color: rgb(188, 86, 113);
 }
 
 .fonty {
     font-family: verdana, "DejaVu-sans", sans-serif;
+    background-color: rgb(191, 98, 98);
+}
+.middle {
+    font-size: 24px;
+}
+#bigblue {
+    font-size: 36px;
 }
