@@ -6,9 +6,19 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: auto auto;
-  padding: 12px 8px;
+  padding: 12px 10px;
+}
+.title,
+.content,
+.button-container {
+  margin: 8px 0px;
+}
 
+}
+.title,
+.content,
+.button-container {
+  padding: 8px;
 }
 
 .title {
@@ -22,7 +32,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  margin: 16px auto;
+  text-align: center;
 }
 
 button {
